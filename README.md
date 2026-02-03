@@ -2,7 +2,7 @@
 
 This project involved the implementation of one of the most popular deep learning algorithms, a Convolutional Neural Network (CNN), to distinguish between images of fresh and infected salmon. The model developed using Python code in a Jupyter Notebook reached 92.2% of accuracy and 91.5% of precision when predicting classes on the test dataset.
 
-_You can check the Jupyter Notebook here._ [Salmon Scan notebook](https://github.com/thepedromiguel/salmon_disease_detection/blob/main/salmon_scan.ipynb)
+_You can check the Jupyter Notebook here:_ [Salmon Scan Notebook](https://github.com/thepedromiguel/salmon_disease_detection/blob/main/salmon_scan.ipynb)
 
 _Here's an example of a sample image, with its true label displayed:_
 
