@@ -5,6 +5,7 @@ This project involved the implementation of one of the most popular deep learnin
 _You can check the Jupyter Notebook here._ [Salmon Scan notebook](https://github.com/thepedromiguel/salmon_disease_detection/blob/main/salmon_scan.ipynb)
 
 _Here's an example of a sample image, with its true label displayed:_
+
 ![Example of a sample image belonging to the "Infected Fish" category](https://github.com/thepedromiguel/salmon_disease_detection/blob/main/fish_test_image_example.png)
 
 Dataset source:
